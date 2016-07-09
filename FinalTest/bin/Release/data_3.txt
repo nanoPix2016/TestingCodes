@@ -1,0 +1,5 @@
+Opening Camera...
+Error: Time difference: 119063 microseconds on interation: 1
+Error count: 0 on 100 iterations.
+Error count: 0 on 200 iterations.
+Error count: 0 on 300 iterations.
